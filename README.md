@@ -1,1 +1,0 @@
-# vds_rental
